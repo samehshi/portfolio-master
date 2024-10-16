@@ -57,6 +57,10 @@ horizontal: false
 
 <div class="certifications">
     <figure>
+        <iframe src="https://drive.google.com/file/d/17MJIXzvnzBtO4-ttrnnbVYZIK2NRTmrX/preview" width="100%" height="600px"></iframe>
+        <figcaption>Microsoft Certified: Power BI Data Analyst Associate PL-300</figcaption>
+    </figure>
+    <figure>
         <iframe src="https://drive.google.com/file/d/1cwHNXgUjQ0Z5CS4yur-RTQ8OELdMzT98/preview" width="100%" height="600px"></iframe>
         <figcaption>Google Data Analytics Certificate</figcaption>
     </figure>

@@ -39,32 +39,70 @@ profile:
       <i class="fas fa-phone"></i> +201274766641
     </p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
+# BI & Data Analyst Portfolio
 
-### **Welcome to my portfolio!**
+I'm Sameh Shehata, a seasoned BI & Data Analyst with over 15 years of experience transforming complex data into actionable insights. My unique background as an Aeronautical Telecommunication Officer at NANSC has instilled in me a passion for precision and a data-driven approach to problem-solving.
 
-I'm Sameh Shehata, a seasoned BI and Data Analyst with over 15 years of experience transforming complex data into actionable insights. My unique background as an ICAO Aeronautical Telecommunication Officer instilled a passion for precision and a data-driven approach to problem-solving.
+## Professional Summary
 
-Today, I leverage my expertise in both traditional and cutting-edge tools to help businesses make informed decisions with confidence.
+As a certified Data Analyst and Business Intelligence professional, I specialize in leveraging modern tools and techniques to drive efficiency and informed decision-making across various industries. My expertise spans data analysis, visualization, and cloud-based analytics, bridging the gap between technical and business functions.
 
-## Expertise
+## Core Competencies
 
-- **Data Analysis:** Proficient in data cleaning, exploration, analysis, and visualization, uncovering hidden patterns to drive strategic decision-making.
-- **Tools & Technologies:** Excel, Office Suite, Power BI, Tableau, Looker, SQL, Python, R, Pandas, Google BigQuery, and more.
-- **Industry Experience:** Adaptable and experienced across various sectors, tailoring my analytical approaches to diverse business needs.
+- Data Analysis & Visualization
+- Business Intelligence
+- Predictive Analytics
+- Data Pipeline Optimization
+- Cloud-Based Analytics
+- Cross-functional Collaboration
+- Data-Driven Strategy Development
+
+## Technical Expertise
+
+- **BI Tools:** Power BI, Tableau, Looker, IBM Cognos
+- **Programming:** SQL, Python, R
+- **Data Analysis:** Pandas, NumPy, SciPy
+- **Big Data & Cloud:** Google BigQuery, IBM Db2
+- **Other:** Excel, Microsoft Office Suite
+
+## Professional Certifications
+
+1. **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** - Microsoft Learning, October 2024
+2. **Google Advanced Data Analytics Professional Certificate** - Coursera, August 2024
+3. **Google Business Intelligence Professional Certificate** - Coursera, August 2024
+4. **Google Cloud Data Analytics Certificate** - Google Cloud Skills Boost, August 2024
+5. **IBM Data Analytics Professional Certificate** - Coursera, November 2023
+6. **Google Data Analytics Professional Certificate** - Coursera, November 2023
+7. **McKinsey Forward Program** - McKinsey, November 2023
 
 ## What I Offer
 
-I transform raw data into clear, compelling narratives that empower businesses to understand their data and make smarter decisions. My approach combines traditional analytical methods with cutting-edge visualization techniques to deliver comprehensive, easy-to-understand reports and dashboards.
+I transform raw data into clear, compelling narratives that empower businesses to understand their data and make smarter decisions. My approach combines:
 
-## **Ready to Connect?**
+- Comprehensive data cleaning, exploration, and visualization
+- Development and implementation of efficient data pipelines
+- Creation of interactive dashboards and reports using Power BI, Tableau, and Looker
+- Application of advanced analytics techniques, including machine learning models for classification, clustering, and prediction
+- Cloud-based analytics solutions using platforms like Google Cloud
 
-Explore my work and discover how I can help drive success through data-driven solutions. Whether you're aiming to optimize operations, identify market trends, or gain a competitive edge, I’m here to help you unlock the power of your data.
+## Recent Projects
 
-<!-- modify this form HTML and place wherever you want your form -->
+As part of the Applied Data Science Labs at WorldQuant University, I completed eight advanced data science projects, including:
+
+- Predictive modeling for housing prices and apartment sales
+- Time-series forecasting for air quality
+- Machine learning models for earthquake damage prediction and bankruptcy forecasting
+- Customer segmentation using clustering techniques
+- A/B testing for email engagement optimization
+- Volatility forecasting in financial markets
+
+## Let's Connect
+
+Whether you're aiming to optimize operations, identify market trends, or gain a competitive edge, I'm here to help you unlock the power of your data. Explore my portfolio to see how I can drive success through data-driven solutions for your business.
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mgvwqypd" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
