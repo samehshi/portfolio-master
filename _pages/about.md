@@ -45,7 +45,7 @@ social: false # includes social icons at the bottom of the page
 ---
 # BI & Data Analyst Portfolio
 
-I'm Sameh Shehata, a seasoned BI & Data Analyst with over 15 years of experience transforming complex data into actionable insights. My unique background as an Aeronautical Telecommunication Officer at NANSC has instilled in me a passion for precision and a data-driven approach to problem-solving.
+I'm Sameh Shehata, a seasoned BI & Data Analyst with over 15 years of experience transforming complex data into actionable insights. My unique background as an Aeronautical Telecommunication Officer at NANSC,Egypt has instilled in me a passion for precision and a data-driven approach to problem-solving.
 
 ## Professional Summary
 
