@@ -43,16 +43,7 @@ Navigate through these tabs to explore detailed visualizations and gain a compre
 
 ---
 
-<iframe src="https://eu-de.dataplatform.cloud.ibm.com/dashboards/3a212504-ebfe-413b-a83e-52b858fa3a41/view/5b33a60402b802e865cfe6e407ca2b572f612c5fe3bb8604848c7b4908617597f0691398c87d4f5fd8130261f3ec435b98" 
-        width="100%" 
-        height="600px" 
-        frameborder="0" 
-        allowfullscreen>
-</iframe>
 
-<p>If the dashboard does not load, you can view it directly by clicking the following link: 
-    <a href="https://eu-de.dataplatform.cloud.ibm.com/dashboards/3a212504-ebfe-413b-a83e-52b858fa3a41/view/5b33a60402b802e865cfe6e407ca2b572f612c5fe3bb8604848c7b4908617597f0691398c87d4f5fd8130261f3ec435b98" target="_blank">View Dashboard</a>.
-</p>
 
 ---
 
