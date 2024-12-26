@@ -43,6 +43,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
 # BI & Data Analyst Portfolio
 
 I'm Sameh Shehata, a seasoned BI & Data Analyst with over 15 years of experience transforming complex data into actionable insights. My unique background as an Aeronautical Telecommunication Officer at NANSC,Egypt has instilled in me a passion for precision and a data-driven approach to problem-solving.
@@ -103,6 +104,7 @@ As part of the Applied Data Science Labs at WorldQuant University, I completed e
 ## Let's Connect
 
 Whether you're aiming to optimize operations, identify market trends, or gain a competitive edge, I'm here to help you unlock the power of your data. Explore my portfolio to see how I can drive success through data-driven solutions for your business.
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mgvwqypd" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>

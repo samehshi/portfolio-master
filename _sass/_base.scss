@@ -169,14 +169,13 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color); /* Set your card background */
   border-radius: 0.5rem; /* Optional: if you want rounded corners */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: if you want a subtle shadow*/
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: if you want a subtle shadow*/
   overflow: hidden; /* Ensures rounded corners are applied properly */
 }
 
 .card-body {
-    padding: 1.5rem;
+  padding: 1.5rem;
 }
-
 
 .card-content {
   display: flex;
@@ -187,7 +186,7 @@ ul.task-list input[type="checkbox"] {
   flex: 0 0 auto; /* Don't grow, don't shrink, maintain initial width */
   margin-right: 1rem; /* Spacing between image and text */
   width: 25%; /* Adjust as needed for the logo size, this will be a quarter of the card by default */
-    max-width: 120px; /* Optional: If you want to give a fixed max width */
+  max-width: 120px; /* Optional: If you want to give a fixed max width */
 }
 
 .card-image img {
@@ -197,9 +196,8 @@ ul.task-list input[type="checkbox"] {
 }
 
 .card-text {
-    flex: 1; /* Text will take remaining space*/
+  flex: 1; /* Text will take remaining space*/
 }
-
 
 .card-title {
   color: var(--global-text-color); /* Set your card title color */
@@ -659,14 +657,12 @@ footer.sticky-bottom {
   }
   .card {
     img {
-      width: 70%;
       padding: 3rem;
     }
   }
 
   .col {
     padding-bottom: 1rem;
-   
   }
 
   .grid-sizer,

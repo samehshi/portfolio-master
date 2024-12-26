@@ -1,21 +1,11 @@
 ---
 layout: page
-title: Salifort Motors project
-description: Dealing with a significant challenge with employee turnover
-img: assets/img/GADA_Project3_Main.png
+title: Employee Turnover Analysis and Retention Strategy Development at Salifort Motors
+description: Salifort Motors is experiencing a high rate of employee turnover, impacting productivity, team morale, and overall business performance. This project aims to analyze the company's employee dataset to identify the key factors contributing to this turnover. The project's objective is to develop data-driven recommendations and strategies for improving employee retention and mitigating the negative impacts of turnover on the organization. This project is commissioned by the HR department.
+img: assets/img/G2.png
 importance: 3
 category: Study
 related_publications: false
----
-
-# Salifort Motors: Reducing Employee Turnover - Stakeholders Summary
-
----
-
-## Introduction
-
-At Salifort Motors, we're facing a significant challenge with employee turnover. This issue is disrupting our productivity, negatively impacting team morale, and hindering our overall business success. To address this, I've been tasked by the HR department to analyze our employee dataset and uncover the key factors driving turnover. My goal is to develop data-driven recommendations for improving employee retention.
-
 ---
 
 ## Methodology

@@ -1,18 +1,12 @@
 ---
 layout: page
-title: Cyclistic Bike-Share
-description: The analysis of a dataset related to a fictional bike-sharing company, Cyclistic. The goal is to provide insights that can help the company understand how different customer types use their bikes differently, and how Cyclistic can use these insights to design a new marketing strategy to convert casual riders into annual members.
-img: assets/img/g1-case1-image1.png
+title: Cyclistic Bike-Sharing Data Analysis for Marketing Strategy Development
+description: This project, undertaken as part of the Google Data Analytics Professional Certificate, focuses on analyzing data from Cyclistic, a fictional bike-sharing company. The project's objective is to identify usage patterns among different customer types and leverage these insights to inform the development of a new marketing strategy. The primary goal of the new strategy is to convert casual riders into annual members, thereby increasing long-term customer engagement and revenue.
+img: assets/img/G1.png
 importance: 1
 category: Study
 related_publications: false
 ---
-
-This project is a part of the Google Data Analytics Professional Certificate. It involves the analysis of a dataset related to a fictional bike-sharing company, Cyclistic. The goal is to provide insights that can help the company understand how different customer types use their bikes differently, and how Cyclistic can use these insights to design a new marketing strategy to convert casual riders into annual members.
-
----
-
-## Cyclistic Bike-Share: Turning Casual Riders into Members
 
 **Objective:** We analyzed one year of Cyclistic bike-share data to understand the differences between annual members and casual riders, with the goal of developing strategies to convert casual riders into members.
 

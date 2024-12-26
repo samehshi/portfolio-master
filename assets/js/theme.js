@@ -14,11 +14,11 @@ let toggleThemeSetting = () => {
 
 // Change the theme setting and apply the theme.
 let setThemeSetting = (themeSetting) => {
-    localStorage.setItem("theme", themeSetting);
+  localStorage.setItem("theme", themeSetting);
 
-    document.documentElement.setAttribute("data-theme-setting", themeSetting);
+  document.documentElement.setAttribute("data-theme-setting", themeSetting);
 
-    applyTheme();
+  applyTheme();
 };
 
 // Apply the computed dark or light theme to the website.
@@ -210,8 +210,8 @@ let transTheme = () => {
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-      // Force light theme if no theme is set
-      themeSetting = "light";
+    // Force light theme if no theme is set
+    themeSetting = "light";
   }
   return themeSetting;
 };

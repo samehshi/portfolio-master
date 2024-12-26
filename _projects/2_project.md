@@ -1,16 +1,12 @@
 ---
 layout: page
 title: Technology Trends Dashboard
-description: IBM Data Analytics Proffesional Certificate project
-img: assets/img/IBM.png
+description: This project aims to develop an interactive dashboard that provides valuable insights into current technology usage and future trends. Leveraging survey data collected from developers worldwide, the dashboard will offer a comprehensive overview of the evolving technology landscape. The dashboard will be structured into three main tabs, each focusing on a distinct perspective of technology trends.
+img: assets/img/IBM1.jpeg
 importance: 2
 category: Study
 related_publications: false
 ---
-
-# Technology Trends Dashboard
-
-Welcome to our comprehensive Technology Trends Dashboard! This interactive tool provides valuable insights into current technology usage and future trends based on survey data from developers worldwide. Our dashboard is divided into three main tabs, each offering unique perspectives on the ever-evolving tech landscape:
 
 ## A. Current Technology Usage Tab
 
@@ -43,11 +39,14 @@ Navigate through these tabs to explore detailed visualizations and gain a compre
 
 ---
 
-
-
----
-
-The PDF below is a demonstration of my data visualization and storytelling skills, following the dashboard i've completed in the previous modules. In this module, I'll find a compelling narrative that clarifies the analysis through an easy-to-understand presentation.
+<div class="row">
+    <div class="col-12 text-center mb-5">
+        <h4>📊 The Great Dashboard Adventure 📈</h4>
+        <p class="lead">Picture this: I built this awesome IBM Cognos dashboard that was slicing and dicing data like a master chef... Then IBM's free trial went "poof!" faster than a developer's coffee break! ☕</p>
+        <p>Now all I have is this PDF - kind of like having photos of your ex-dashboard. But hey, at least it's a good-looking PDF! Scroll down to witness what remains of my brief but beautiful relationship with IBM Cognos. 🤓</p>
+        <p><em>Spoiler alert: The PDF below is like the "greatest hits album" of my dashboard journey. Enjoy the tour! 🎵</em></p>
+    </div>
+</div>
 
 ---
 
