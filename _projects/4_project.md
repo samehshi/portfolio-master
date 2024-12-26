@@ -1,75 +1,115 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img: assets/img/g1-case1-image1.png
+title: Accenture North America Data Analytics and Visualization
+
+description: As a Data Analyst at Accenture Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
+img: assets/img/accenture.png
 importance: 3
 category: work
 ---
-
-This project is a part of the Google Data Analytics Professional Certificate. It involves the analysis of a dataset related to a fictional bike-sharing company, Cyclistic. The goal is to provide insights that can help the company understand how different customer types use their bikes differently, and how Cyclistic can use these insights to design a new marketing strategy to convert casual riders into annual members.
-
 ---
 
-## Cyclistic Bike-Share: Turning Casual Riders into Members
+### Social Buzz Project: Leveraging Data to Understand User Behavior
 
-**Objective:** We analyzed one year of Cyclistic bike-share data to understand the differences between annual members and casual riders, with the goal of developing strategies to convert casual riders into members.
+**Objective:** We analyzed Social Buzz user data (similar to a bike-share program) to identify key differences between engaged and casual users. The goal was to create strategies for turning casual users into engaged, active members.
 
-**Key Findings:**
+## Key Findings (Data Analysis Insights):
 
-- **Annual members use bikes primarily for commuting:** Their usage is consistent throughout the weekdays, with shorter ride times.
-- **Casual riders use bikes for leisure:** Their usage peaks on weekends and during summer, with longer ride times.
-- **Electric bikes are popular, especially among members:** This indicates a preference for assisted riding.
-- **Ridership spikes in summer and falls during winter:** Weather plays a major role in bike usage.
+- **"Animals" and "Science" Categories Lead in Popularity:** Our analysis shows that users highly engage with content related to "Animals" and "Science," similar to how frequent bike-share users may prefer practical routes.
+- **"Food" as a Common Theme:** The presence of "Food" indicates a broad interest area, reflecting how bike-share users may use the service for leisure and recreation, particularly in areas with food services.
+- **January as Peak Activity Month:** This peak reflects seasonal trends, similar to how bike-share usage spikes during summer.
+- **High Reaction Count for "Animals" Content:**  With 1897 reactions, this shows a clear favorite category, much like how members may frequently use specific bike types or routes.
+- **16 Unique Content Categories:** Highlighting a diverse content landscape, similar to bike-share's various stations and bike types available.
+- **Excel-Based Analysis:** The analysis was carried out using excel, demonstrating a flexible and efficient use of data analysis techniques.
 
-**Recommendations:**
+## Recommendations for Social Buzz:
 
-1. **Target casual riders with a commuting-focused marketing campaign:**
-   - Highlight the benefits of cycling for work: save money on gas, avoid traffic, and contribute to a healthier lifestyle.
-   - Promote the campaign on professional social media platforms (LinkedIn) to reach the target audience effectively.
-2. **Incentivize winter ridership:**
-   - Offer discounts or special promotions during colder months to encourage year-round usage.
-3. **Showcase the versatility of Cyclistic bikes:**
-   - Run advertising campaigns that demonstrate bikes are suitable for both commuting and recreation.
-   - Emphasize practicality and bike availability. Target these campaigns on platforms frequented by potential casual riders.
+1.  **Target Casual Users with Focused Messaging:**
+    -   Use the popularity of "Animals" and "Science" to emphasize quality, real-life, and factual content to engage casual users more effectively.
+    -   Relate engagement to clear value, similar to how bike-share users may be targeted with routes for work/leisure.
 
-**Impact:** By understanding how casual riders differ from members, we can tailor our marketing to effectively convert them, leading to increased membership, higher revenue, and a more sustainable transportation system.
+2.  **Engage Users with "Food" Content:**
+    -   Partner with "healthy eating" brands to boost user engagement, similar to partnering with locations along frequent routes.
+    -   Leverage the presence of this common theme to align user needs and content creation.
+
+3.  **Incentivize Engagement During Off-Peak Times:**
+    -   Offer content series or promotions outside peak months to encourage consistent user activity, similar to bike-share incentives during winter months.
+
+4. **Highlight Efficiency and Adaptability**
+ -  Showcase how insights can be generated quickly using tools like Excel.
+  -  Emphasize how real-time analysis can be implemented for continuous improvements.
+
+## Impact:
+
+By understanding the data, we can provide actionable insights that enable Social Buzz to improve its user engagement and potentially convert casual users into active, engaged members. This ultimately leads to a thriving community and a more sustainable content platform."
+
+
+## Skills i optained :
+    - Communication
+    - Data Analysis
+    - Data Modeling
+    - Data Understanding
+    - Data Visualization
+    - Presentations
+    - Project Planning
+    - Public Speaking
+    - Storytelling
+    - Strategy
+    - Teamwork
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/1.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
     </div>
 </div>
-
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image4.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image5.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image6.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/2.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image8.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/g1-case1-image9.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/3.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
     </div>
 </div>
-
 <div class="row justify-content-sm-center">
-    <iframe src="https://www.kaggle.com/embed/samehshehata/google-data-analytics-capstone-project-case-1?kernelSessionId=152673146" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Google Case Study 1 :"></iframe>
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/4.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/5.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/6.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/7.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/8.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/9.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/10.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 col-md-11 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Accenture/11.png" title="example image" class="img-fluid rounded z-depth-1" loading="eager" alt="example image" %}
+    </div>
 </div>

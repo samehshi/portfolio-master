@@ -23,9 +23,10 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'sass-embedded'
     gem "jekyll-formspree"
+    gem "google-protobuf"
 end
 group :other_plugins do
-    gem 'css_parser'
+    gem 'css_parser', '~> 1.14.0'
     gem 'feedjira'
     gem 'httparty'
 end

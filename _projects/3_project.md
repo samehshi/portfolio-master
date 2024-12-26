@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 3
-description: Google Advanced Data Analytics (Salifort Motors project)
+title: Salifort Motors project
+description: Dealing with a significant challenge with employee turnover
 img: assets/img/GADA_Project3_Main.png
 importance: 3
-category: work
+category: Study
 related_publications: false
 ---
 

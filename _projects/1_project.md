@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 1
-description: Google Data Analytics (Case Study 1)
+title: Cyclistic Bike-Share
+description: The analysis of a dataset related to a fictional bike-sharing company, Cyclistic. The goal is to provide insights that can help the company understand how different customer types use their bikes differently, and how Cyclistic can use these insights to design a new marketing strategy to convert casual riders into annual members.
 img: assets/img/g1-case1-image1.png
 importance: 1
-category: work
+category: Study
 related_publications: false
 ---
 

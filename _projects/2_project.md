@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 2
-description: IBM Data Analytics Proffesional Certificate proyect
+title: Technology Trends Dashboard
+description: IBM Data Analytics Proffesional Certificate project
 img: assets/img/IBM.png
 importance: 2
-category: work
+category: Study
 related_publications: false
 ---
 

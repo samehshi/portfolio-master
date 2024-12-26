@@ -167,20 +167,50 @@ ul.task-list input[type="checkbox"] {
 // Card
 
 .card {
-  background-color: var(--global-card-bg-color);
+  background-color: var(--global-card-bg-color); /* Set your card background */
+  border-radius: 0.5rem; /* Optional: if you want rounded corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: if you want a subtle shadow*/
+  overflow: hidden; /* Ensures rounded corners are applied properly */
+}
 
-  .card-img {
-    width: 100%;
-    padding-top: 1.25rem;
-  }
+.card-body {
+    padding: 1.5rem;
+}
 
-  .card-title {
-    color: var(--global-text-color);
-  }
 
-  .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
-  }
+.card-content {
+  display: flex;
+  align-items: center; /* Center items vertically */
+}
+
+.card-image {
+  flex: 0 0 auto; /* Don't grow, don't shrink, maintain initial width */
+  margin-right: 1rem; /* Spacing between image and text */
+  width: 25%; /* Adjust as needed for the logo size, this will be a quarter of the card by default */
+    max-width: 120px; /* Optional: If you want to give a fixed max width */
+}
+
+.card-image img {
+  max-width: 100%;
+  display: block; /* To remove extra space under images */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.card-text {
+    flex: 1; /* Text will take remaining space*/
+}
+
+
+.card-title {
+  color: var(--global-text-color); /* Set your card title color */
+  font-size: 1.5rem; /* Adjust font size as needed */
+  margin-bottom: 0.75rem; /* Spacing between title and description */
+}
+
+.card-description {
+  color: var(--global-text-color); /* Set your card description color */
+  font-size: 1rem; /* Adjust font size as needed */
+  line-height: 1.5;
 }
 
 // Citation
@@ -627,15 +657,16 @@ footer.sticky-bottom {
       }
     }
   }
-
   .card {
     img {
-      width: 100%;
+      width: 70%;
+      padding: 3rem;
     }
   }
 
   .col {
     padding-bottom: 1rem;
+   
   }
 
   .grid-sizer,
@@ -645,7 +676,7 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    /* color: var(--global-divider-color); */
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
@@ -690,9 +721,6 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-
-      .preview {
-      }
 
       .abbr {
         margin-bottom: 0.5rem;
